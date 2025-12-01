@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Viresh/Capstone Project/Capstone Project.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sim_1/new/tb_soc.v,1764416041,verilog,,,,tb_data_transfer,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ldpc_decoder_stub.v,1764222346,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ldpc_encoder_stub.v,,ldpc_decoder_stub,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ldpc_encoder_stub.v,1764222337,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ofdm_demod_stub.v,,ldpc_encoder_stub,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ofdm_demod_stub.v,1764415694,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ofdm_mod_stub.v,,ofdm_demod_stub,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/ofdm_mod_stub.v,1764222312,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/qam_demapper.v,,ofdm_mod_stub,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/qam_demapper.v,1764222296,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/qam_mapper.v,,qam_demapper,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/qam_mapper.v,1764223181,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/top.v,,qam_mapper,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Viresh/full_soc/full_soc.srcs/sources_1/new/top.v,1764415958,verilog,,C:/Users/Viresh/full_soc/full_soc.srcs/sim_1/new/tb_soc.v,,top,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

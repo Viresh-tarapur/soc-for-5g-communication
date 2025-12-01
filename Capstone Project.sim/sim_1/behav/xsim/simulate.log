@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+
+===============================================
+          5G SoC E2E TEST - "HELLO"            
+===============================================
+
+ TX_CHAR | RX_CHAR | HEX(TX) | HEX(RX) | RESULT
+------------------------------------------------
+   H     |       |   0x48   |   0x08  | FAIL
+   E     |       |   0x45   |   0x05  | FAIL
+   L     |       |   0x4c   |   0x0c  | FAIL
+   L     |       |   0x4c   |   0x0c  | FAIL
+   O     |       |   0x4f   |   0x0f  | FAIL
+------------------------------------------------
+ MESSAGE SENT: "HELLO" 
+ END-TO-END TRANSFER COMPLETE
+------------------------------------------------
+
+$finish called at time : 515 ns : File "C:/Users/Viresh/full_soc/full_soc.srcs/sim_1/new/tb_soc.v" Line 70
